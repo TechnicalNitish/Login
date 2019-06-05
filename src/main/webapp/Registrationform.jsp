@@ -6,7 +6,7 @@
 </head>
 <body style="background-color:blue">
 <center>
-<form action="registrationservlet" method="post" style="margin:300px;margin-top:120px;border:2px solid red;border-radius:4px;padding:20px;background-color:cyan;padding:120px" >
+<form action="registrationservlet" method="post" style="margin:350px;margin-top:120px;border:2px solid red;border-radius:4px;padding:20px;background-color:cyan;padding:120px" >
 	First Name:	<input type="text" name="fname" style="margin-bottom:3px;color:cyan;margin-left:20px"><br>
 	Last Name:	<input type="text" name="lname" style="margin-bottom:3px;color:cyan;margin-left:20px"><br>
 	Email id:	<input type="email" name="email" style="margin-bottom:3px;color:cyan;margin-left:20px"><br>
